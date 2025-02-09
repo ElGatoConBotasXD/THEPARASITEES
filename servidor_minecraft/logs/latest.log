@@ -794,3 +794,21 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [23:15:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pinguinnocios12: Given    [Secure Redstone Interface] * 1 to Pinguinnocios12]
 [23:16:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pinguinnocios12: Set own game mode to Creative Mode]
 [23:16:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pinguinnocios12: Set own game mode to Survival Mode]
+[23:20:58] [Server thread/WARN] [FML]: Biomes O' Plenty loaded a new chunk [18, 48] in dimension 0 (overworld) while populating chunk [18, 47], causing cascading worldgen lag.
+[23:20:58] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:20:58] [Server thread/WARN] [FML]: Biomes O' Plenty loaded a new chunk [35, 48] in dimension 0 (overworld) while populating chunk [35, 47], causing cascading worldgen lag.
+[23:20:58] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:21:32] [Server thread/WARN] [FML]: Biomes O' Plenty loaded a new chunk [36, 25] in dimension 0 (overworld) while populating chunk [37, 25], causing cascading worldgen lag.
+[23:21:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:21:32] [Server thread/WARN] [FML]: Biomes O' Plenty loaded a new chunk [36, 24] in dimension 0 (overworld) while populating chunk [36, 25], causing cascading worldgen lag.
+[23:21:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:21:35] [Server thread/WARN] [FML]: Biomes O' Plenty loaded a new chunk [38, 33] in dimension 0 (overworld) while populating chunk [38, 34], causing cascading worldgen lag.
+[23:21:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:23:57] [Server thread/WARN] [FML]: Biomes O' Plenty loaded a new chunk [11, 42] in dimension 0 (overworld) while populating chunk [12, 42], causing cascading worldgen lag.
+[23:23:57] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:24:10] [Server thread/WARN] [FML]: Biomes O' Plenty loaded a new chunk [10, 41] in dimension 0 (overworld) while populating chunk [10, 42], causing cascading worldgen lag.
+[23:24:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:24:10] [Server thread/WARN] [FML]: Biomes O' Plenty loaded a new chunk [10, 40] in dimension 0 (overworld) while populating chunk [10, 42], causing cascading worldgen lag.
+[23:24:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:27:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pinguinnocios12: Given    [Campfire] * 1 to Pinguinnocios12]
+[23:27:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pinguinnocios12: Given    [Campfire] * 1 to Pinguinnocios12]
