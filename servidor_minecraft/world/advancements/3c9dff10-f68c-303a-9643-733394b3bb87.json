@@ -1078,6 +1078,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-02-09 22:36:19 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/tanzanite": {
     "criteria": {
       "has_the_recipe": "2025-02-09 21:42:33 +0000"

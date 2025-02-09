@@ -755,3 +755,7 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [22:29:17] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [22:30:29] [Server thread/WARN] [FML]: The Lost Cities loaded a new chunk [23, -3] in dimension 0 (overworld) while populating chunk [24, -3], causing cascading worldgen lag.
 [22:30:29] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:32:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pinguinnocios12: Set game difficulty to Hard]
+[22:33:44] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Pinguinnocios12 lost connection: Disconnected
+[22:33:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Pinguinnocios12 left the game
+[22:36:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dyrroth_321 has made the advancement [Best Friends Forever]
