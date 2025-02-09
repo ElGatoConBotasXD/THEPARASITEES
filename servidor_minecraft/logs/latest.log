@@ -786,3 +786,11 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [22:58:23] [Server thread/WARN] [FML]: Biomes O' Plenty loaded a new chunk [9, 36] in dimension 0 (overworld) while populating chunk [10, 36], causing cascading worldgen lag.
 [22:58:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [23:09:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dyrroth_321 has made the advancement [The Parrots and the Bats]
+[23:12:24] [Server thread/WARN] [FML]: Biomes O' Plenty loaded a new chunk [10, 41] in dimension 0 (overworld) while populating chunk [11, 41], causing cascading worldgen lag.
+[23:12:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:12:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dyrroth_321 has made the advancement [Isn't It Iron Pick]
+[23:14:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Pinguinnocios12 has made the advancement [The Parrots and the Bats]
+[23:15:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pinguinnocios12: Given    [Magma Block] * 1 to Pinguinnocios12]
+[23:15:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pinguinnocios12: Given    [Secure Redstone Interface] * 1 to Pinguinnocios12]
+[23:16:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pinguinnocios12: Set own game mode to Creative Mode]
+[23:16:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pinguinnocios12: Set own game mode to Survival Mode]
