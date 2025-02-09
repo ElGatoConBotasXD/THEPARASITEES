@@ -781,3 +781,7 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [22:48:36] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Pinguinnocios12[/127.176.33.129:37263] logged in with entity id 2163368 at (402.30000001192093, 72.0, 231.30000001192093)
 [22:48:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Pinguinnocios12 joined the game
 [22:48:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Pinguinnocios12> xaero-waypoint:BASE:B:396:72:226:10:false:0:Internal-overworld-waypoints
+[22:52:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dyrroth_321 has made the advancement [Wolf Pack]
+[22:54:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dyrroth_321 has made the advancement [Swashbuckler]
+[22:58:23] [Server thread/WARN] [FML]: Biomes O' Plenty loaded a new chunk [9, 36] in dimension 0 (overworld) while populating chunk [10, 36], causing cascading worldgen lag.
+[22:58:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
