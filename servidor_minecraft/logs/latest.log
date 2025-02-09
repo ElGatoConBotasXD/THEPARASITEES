@@ -785,3 +785,4 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [22:54:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dyrroth_321 has made the advancement [Swashbuckler]
 [22:58:23] [Server thread/WARN] [FML]: Biomes O' Plenty loaded a new chunk [9, 36] in dimension 0 (overworld) while populating chunk [10, 36], causing cascading worldgen lag.
 [22:58:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:09:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dyrroth_321 has made the advancement [The Parrots and the Bats]

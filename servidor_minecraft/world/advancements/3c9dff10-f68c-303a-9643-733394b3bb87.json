@@ -2564,6 +2564,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "bred_cow": "2025-02-09 23:09:16 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/misc/topaz": {
     "criteria": {
       "has_the_recipe": "2025-02-09 21:42:33 +0000"
@@ -3773,6 +3779,12 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_the_recipe": "2025-02-09 21:42:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred_cow": "2025-02-09 23:09:16 +0000"
     },
     "done": true
   },
