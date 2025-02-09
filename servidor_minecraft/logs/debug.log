@@ -4968,3 +4968,128 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 
 [21:49:55] [Server thread/DEBUG] [FML]: The world 3056484d (world) may have leaked: seen 55 times.
 
+[21:50:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:50:45] [Server thread/DEBUG] [FML]: The world 7c148b91 (world) may have leaked: seen 60 times.
+
+[21:50:45] [Server thread/DEBUG] [FML]: The world 401209b5 (world) may have leaked: seen 60 times.
+
+[21:50:45] [Server thread/DEBUG] [FML]: The world 3056484d (world) may have leaked: seen 60 times.
+
+[21:51:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:51:35] [Server thread/DEBUG] [FML]: The world 7c148b91 (world) may have leaked: seen 65 times.
+
+[21:51:35] [Server thread/DEBUG] [FML]: The world 401209b5 (world) may have leaked: seen 65 times.
+
+[21:51:35] [Server thread/DEBUG] [FML]: The world 3056484d (world) may have leaked: seen 65 times.
+
+[21:51:46] [Server thread/WARN] [FML]: The Lost Cities loaded a new chunk [12, 25] in dimension 0 (overworld) while populating chunk [13, 25], causing cascading worldgen lag.
+[21:51:46] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:52:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:52:25] [Server thread/DEBUG] [FML]: The world 7c148b91 (world) may have leaked: seen 70 times.
+
+[21:52:25] [Server thread/DEBUG] [FML]: The world 401209b5 (world) may have leaked: seen 70 times.
+
+[21:52:25] [Server thread/DEBUG] [FML]: The world 3056484d (world) may have leaked: seen 70 times.
+
+[21:52:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:52:49] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:52:49] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:52:49] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:52:49] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:52:49] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:52:49] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:52:49] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:52:49] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:52:49] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:52:49] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:52:55] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:53:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dyrroth_321 has made the advancement [Monster Hunter]
+[21:53:15] [Server thread/DEBUG] [FML]: The world 7c148b91 (world) may have leaked: seen 75 times.
+
+[21:53:15] [Server thread/DEBUG] [FML]: The world 401209b5 (world) may have leaked: seen 75 times.
+
+[21:53:15] [Server thread/DEBUG] [FML]: The world 3056484d (world) may have leaked: seen 75 times.
+
+[21:53:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:54:02] [Server thread/WARN] [FML]: The Lost Cities loaded a new chunk [32, 9] in dimension 0 (overworld) while populating chunk [32, 10], causing cascading worldgen lag.
+[21:54:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:54:02] [Server thread/WARN] [FML]: The Lost Cities loaded a new chunk [32, 8] in dimension 0 (overworld) while populating chunk [32, 10], causing cascading worldgen lag.
+[21:54:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:54:05] [Server thread/DEBUG] [FML]: The world 7c148b91 (world) may have leaked: seen 80 times.
+
+[21:54:05] [Server thread/DEBUG] [FML]: The world 401209b5 (world) may have leaked: seen 80 times.
+
+[21:54:05] [Server thread/DEBUG] [FML]: The world 3056484d (world) may have leaked: seen 80 times.
+
+[21:54:05] [Server thread/WARN] [FML]: Biomes O' Plenty loaded a new chunk [33, 4] in dimension 0 (overworld) while populating chunk [33, 3], causing cascading worldgen lag.
+[21:54:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:54:05] [Server thread/WARN] [FML]: Biomes O' Plenty loaded a new chunk [33, 2] in dimension 0 (overworld) while populating chunk [33, 3], causing cascading worldgen lag.
+[21:54:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:54:06] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:
+[21:54:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:54:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Pinguinnocios12 has made the advancement [Stone Age]
+[21:54:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dyrroth_321 has made the advancement [Stone Age]
+[21:54:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dyrroth_321 has made the advancement [Getting an Upgrade]
+[21:54:55] [Server thread/DEBUG] [FML]: The world 7c148b91 (world) may have leaked: seen 85 times.
+
+[21:54:55] [Server thread/DEBUG] [FML]: The world 401209b5 (world) may have leaked: seen 85 times.
+
+[21:54:55] [Server thread/DEBUG] [FML]: The world 3056484d (world) may have leaked: seen 85 times.
+
+[21:55:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:55:08] [Server thread/WARN] [FML]: Quark loaded a new chunk [35, 8] in dimension 0 (overworld) while populating chunk [34, 9], causing cascading worldgen lag.
+[21:55:08] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:55:08] [Server thread/WARN] [FML]: Quark loaded a new chunk [36, 8] in dimension 0 (overworld) while populating chunk [34, 9], causing cascading worldgen lag.
+[21:55:08] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:55:08] [Server thread/WARN] [FML]: Biomes O' Plenty loaded a new chunk [36, 7] in dimension 0 (overworld) while populating chunk [36, 8], causing cascading worldgen lag.
+[21:55:08] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:55:08] [Server thread/WARN] [FML]: Biomes O' Plenty loaded a new chunk [35, 7] in dimension 0 (overworld) while populating chunk [36, 8], causing cascading worldgen lag.
+[21:55:08] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:55:08] [Server thread/WARN] [FML]: Quark loaded a new chunk [34, 17] in dimension 0 (overworld) while populating chunk [34, 16], causing cascading worldgen lag.
+[21:55:08] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:55:45] [Server thread/DEBUG] [FML]: The world 7c148b91 (world) may have leaked: seen 90 times.
+
+[21:55:45] [Server thread/DEBUG] [FML]: The world 401209b5 (world) may have leaked: seen 90 times.
+
+[21:55:45] [Server thread/DEBUG] [FML]: The world 3056484d (world) may have leaked: seen 90 times.
+
+[21:55:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:56:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:56:35] [Server thread/DEBUG] [FML]: The world 7c148b91 (world) may have leaked: seen 95 times.
+
+[21:56:35] [Server thread/DEBUG] [FML]: The world 401209b5 (world) may have leaked: seen 95 times.
+
+[21:56:35] [Server thread/DEBUG] [FML]: The world 3056484d (world) may have leaked: seen 95 times.
+
+[21:56:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Pinguinnocios12 has made the advancement [Monster Hunter]
+[21:56:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Pinguinnocios12 has made the advancement [Acquire Hardware]
+[21:57:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:57:25] [Server thread/DEBUG] [FML]: The world 7c148b91 (world) may have leaked: seen 100 times.
+
+[21:57:25] [Server thread/DEBUG] [FML]: The world 401209b5 (world) may have leaked: seen 100 times.
+
+[21:57:25] [Server thread/DEBUG] [FML]: The world 3056484d (world) may have leaked: seen 100 times.
+
+[21:58:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:58:15] [Server thread/DEBUG] [FML]: The world 7c148b91 (world) may have leaked: seen 105 times.
+
+[21:58:15] [Server thread/DEBUG] [FML]: The world 401209b5 (world) may have leaked: seen 105 times.
+
+[21:58:15] [Server thread/DEBUG] [FML]: The world 3056484d (world) may have leaked: seen 105 times.
+
+[21:58:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:59:05] [Server thread/DEBUG] [FML]: The world 7c148b91 (world) may have leaked: seen 110 times.
+
+[21:59:05] [Server thread/DEBUG] [FML]: The world 401209b5 (world) may have leaked: seen 110 times.
+
+[21:59:05] [Server thread/DEBUG] [FML]: The world 3056484d (world) may have leaked: seen 110 times.
+
+[21:59:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:59:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Pinguinnocios12 has made the advancement [Getting an Upgrade]
+[21:59:55] [Server thread/DEBUG] [FML]: The world 7c148b91 (world) may have leaked: seen 115 times.
+
+[21:59:55] [Server thread/DEBUG] [FML]: The world 401209b5 (world) may have leaked: seen 115 times.
+
+[21:59:55] [Server thread/DEBUG] [FML]: The world 3056484d (world) may have leaked: seen 115 times.
+
+[22:00:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world

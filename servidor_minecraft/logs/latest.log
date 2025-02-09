@@ -713,3 +713,31 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [21:48:01] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
 [21:48:01] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
 [21:48:01] [Server thread/INFO] [Quark ASM]: Patch result: true
+[21:51:46] [Server thread/WARN] [FML]: The Lost Cities loaded a new chunk [12, 25] in dimension 0 (overworld) while populating chunk [13, 25], causing cascading worldgen lag.
+[21:51:46] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:53:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dyrroth_321 has made the advancement [Monster Hunter]
+[21:54:02] [Server thread/WARN] [FML]: The Lost Cities loaded a new chunk [32, 9] in dimension 0 (overworld) while populating chunk [32, 10], causing cascading worldgen lag.
+[21:54:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:54:02] [Server thread/WARN] [FML]: The Lost Cities loaded a new chunk [32, 8] in dimension 0 (overworld) while populating chunk [32, 10], causing cascading worldgen lag.
+[21:54:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:54:05] [Server thread/WARN] [FML]: Biomes O' Plenty loaded a new chunk [33, 4] in dimension 0 (overworld) while populating chunk [33, 3], causing cascading worldgen lag.
+[21:54:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:54:05] [Server thread/WARN] [FML]: Biomes O' Plenty loaded a new chunk [33, 2] in dimension 0 (overworld) while populating chunk [33, 3], causing cascading worldgen lag.
+[21:54:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:54:06] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:
+[21:54:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Pinguinnocios12 has made the advancement [Stone Age]
+[21:54:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dyrroth_321 has made the advancement [Stone Age]
+[21:54:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dyrroth_321 has made the advancement [Getting an Upgrade]
+[21:55:08] [Server thread/WARN] [FML]: Quark loaded a new chunk [35, 8] in dimension 0 (overworld) while populating chunk [34, 9], causing cascading worldgen lag.
+[21:55:08] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:55:08] [Server thread/WARN] [FML]: Quark loaded a new chunk [36, 8] in dimension 0 (overworld) while populating chunk [34, 9], causing cascading worldgen lag.
+[21:55:08] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:55:08] [Server thread/WARN] [FML]: Biomes O' Plenty loaded a new chunk [36, 7] in dimension 0 (overworld) while populating chunk [36, 8], causing cascading worldgen lag.
+[21:55:08] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:55:08] [Server thread/WARN] [FML]: Biomes O' Plenty loaded a new chunk [35, 7] in dimension 0 (overworld) while populating chunk [36, 8], causing cascading worldgen lag.
+[21:55:08] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:55:08] [Server thread/WARN] [FML]: Quark loaded a new chunk [34, 17] in dimension 0 (overworld) while populating chunk [34, 16], causing cascading worldgen lag.
+[21:55:08] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:56:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Pinguinnocios12 has made the advancement [Monster Hunter]
+[21:56:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Pinguinnocios12 has made the advancement [Acquire Hardware]
+[21:59:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Pinguinnocios12 has made the advancement [Getting an Upgrade]

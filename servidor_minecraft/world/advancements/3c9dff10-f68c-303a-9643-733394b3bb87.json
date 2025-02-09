@@ -815,6 +815,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-02-09 21:53:05 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/white_wool_from_cattails": {
     "criteria": {
       "has_the_recipe": "2025-02-09 21:42:33 +0000"
@@ -874,6 +880,14 @@
       "has_the_recipe": "2025-02-09 21:42:33 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "husk": "2025-02-09 21:53:05 +0000",
+      "zombie": "2025-02-09 21:56:09 +0000",
+      "spider": "2025-02-09 21:59:18 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
@@ -1544,6 +1558,12 @@
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2025-02-09 21:42:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "husk": "2025-02-09 21:53:05 +0000"
     },
     "done": true
   },
@@ -2327,6 +2347,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "beetroot": "2025-02-09 21:50:11 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_the_recipe": "2025-02-09 21:42:33 +0000"
@@ -2528,6 +2554,12 @@
   "minecraft:recipes/decorations/orange_carpet": {
     "criteria": {
       "has_the_recipe": "2025-02-09 21:42:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-02-09 21:54:39 +0000"
     },
     "done": true
   },
@@ -2918,6 +2950,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_the_recipe": "2025-02-09 21:42:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-02-09 21:54:55 +0000"
     },
     "done": true
   },
@@ -3326,6 +3364,12 @@
   "biomesoplenty:recipes/buildingblocks/ebony_stairs": {
     "criteria": {
       "has_the_recipe": "2025-02-09 21:42:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-02-09 21:59:21 +0000"
     },
     "done": true
   },
