@@ -883,9 +883,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "skeleton": "2025-02-09 22:04:07 +0000",
       "husk": "2025-02-09 21:53:05 +0000",
       "zombie": "2025-02-09 21:56:09 +0000",
-      "spider": "2025-02-09 21:59:18 +0000"
+      "spider": "2025-02-09 21:59:18 +0000",
+      "creeper": "2025-02-09 22:04:11 +0000"
     },
     "done": false
   },
@@ -2349,6 +2351,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_cod": "2025-02-09 22:00:53 +0000",
+      "bread": "2025-02-09 22:04:47 +0000",
       "beetroot": "2025-02-09 21:50:11 +0000"
     },
     "done": false

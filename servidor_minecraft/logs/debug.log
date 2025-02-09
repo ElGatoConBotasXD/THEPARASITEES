@@ -5093,3 +5093,179 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [21:59:55] [Server thread/DEBUG] [FML]: The world 3056484d (world) may have leaked: seen 115 times.
 
 [22:00:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:00:45] [Server thread/DEBUG] [FML]: The world 7c148b91 (world) may have leaked: seen 120 times.
+
+[22:00:45] [Server thread/DEBUG] [FML]: The world 401209b5 (world) may have leaked: seen 120 times.
+
+[22:00:45] [Server thread/DEBUG] [FML]: The world 3056484d (world) may have leaked: seen 120 times.
+
+[22:01:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:01:35] [Server thread/DEBUG] [FML]: The world 7c148b91 (world) may have leaked: seen 125 times.
+
+[22:01:35] [Server thread/DEBUG] [FML]: The world 401209b5 (world) may have leaked: seen 125 times.
+
+[22:01:35] [Server thread/DEBUG] [FML]: The world 3056484d (world) may have leaked: seen 125 times.
+
+[22:01:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:02:08] [Server thread/WARN] [FML]: Biomes O' Plenty loaded a new chunk [35, 6] in dimension 0 (overworld) while populating chunk [35, 5], causing cascading worldgen lag.
+[22:02:08] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:02:25] [Server thread/DEBUG] [FML]: The world 7c148b91 (world) may have leaked: seen 130 times.
+
+[22:02:25] [Server thread/DEBUG] [FML]: The world 401209b5 (world) may have leaked: seen 130 times.
+
+[22:02:25] [Server thread/DEBUG] [FML]: The world 3056484d (world) may have leaked: seen 130 times.
+
+[22:02:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:03:15] [Server thread/DEBUG] [FML]: The world 7c148b91 (world) may have leaked: seen 135 times.
+
+[22:03:15] [Server thread/DEBUG] [FML]: The world 401209b5 (world) may have leaked: seen 135 times.
+
+[22:03:15] [Server thread/DEBUG] [FML]: The world 3056484d (world) may have leaked: seen 135 times.
+
+[22:03:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:03:56] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:03:56] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:03:56] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:03:57] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:03:57] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:03:57] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:03:57] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:03:57] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:03:57] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:03:57] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:03:57] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:03:57] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:03:57] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:03:57] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:03:57] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:03:57] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:03:57] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:00] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:00] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:00] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:00] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:00] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:00] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:00] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:00] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:04:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:04] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:04] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:04] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:04] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:04] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:04] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:04] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:04] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:04] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:04] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:04] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:04] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:04] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:04] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:04] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:04] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:04] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:05] [Server thread/DEBUG] [FML]: The world 7c148b91 (world) may have leaked: seen 140 times.
+
+[22:04:05] [Server thread/DEBUG] [FML]: The world 401209b5 (world) may have leaked: seen 140 times.
+
+[22:04:05] [Server thread/DEBUG] [FML]: The world 3056484d (world) may have leaked: seen 140 times.
+
+[22:04:10] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:10] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:10] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:10] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:10] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:10] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:10] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:10] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:10] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:10] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:11] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:11] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:11] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:11] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:11] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:11] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:11] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:11] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:11] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:11] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:11] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:11] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:11] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:11] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:11] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[22:04:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:04:55] [Server thread/DEBUG] [FML]: The world 7c148b91 (world) may have leaked: seen 145 times.
+
+[22:04:55] [Server thread/DEBUG] [FML]: The world 401209b5 (world) may have leaked: seen 145 times.
+
+[22:04:55] [Server thread/DEBUG] [FML]: The world 3056484d (world) may have leaked: seen 145 times.
+
+[22:05:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:05:45] [Server thread/DEBUG] [FML]: The world 7c148b91 (world) may have leaked: seen 150 times.
+
+[22:05:45] [Server thread/DEBUG] [FML]: The world 401209b5 (world) may have leaked: seen 150 times.
+
+[22:05:45] [Server thread/DEBUG] [FML]: The world 3056484d (world) may have leaked: seen 150 times.
+
+[22:06:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:06:35] [Server thread/DEBUG] [FML]: The world 7c148b91 (world) may have leaked: seen 155 times.
+
+[22:06:35] [Server thread/DEBUG] [FML]: The world 401209b5 (world) may have leaked: seen 155 times.
+
+[22:06:35] [Server thread/DEBUG] [FML]: The world 3056484d (world) may have leaked: seen 155 times.
+
+[22:06:43] [Server thread/WARN] [FML]: Quark loaded a new chunk [31, 29] in dimension 0 (overworld) while populating chunk [31, 28], causing cascading worldgen lag.
+[22:06:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:07:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:07:25] [Server thread/DEBUG] [FML]: The world 7c148b91 (world) may have leaked: seen 160 times.
+
+[22:07:25] [Server thread/DEBUG] [FML]: The world 401209b5 (world) may have leaked: seen 160 times.
+
+[22:07:25] [Server thread/DEBUG] [FML]: The world 3056484d (world) may have leaked: seen 160 times.
+
+[22:07:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:08:15] [Server thread/DEBUG] [FML]: The world 7c148b91 (world) may have leaked: seen 165 times.
+
+[22:08:15] [Server thread/DEBUG] [FML]: The world 401209b5 (world) may have leaked: seen 165 times.
+
+[22:08:15] [Server thread/DEBUG] [FML]: The world 3056484d (world) may have leaked: seen 165 times.
+
+[22:08:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:09:05] [Server thread/DEBUG] [FML]: The world 7c148b91 (world) may have leaked: seen 170 times.
+
+[22:09:05] [Server thread/DEBUG] [FML]: The world 401209b5 (world) may have leaked: seen 170 times.
+
+[22:09:05] [Server thread/DEBUG] [FML]: The world 3056484d (world) may have leaked: seen 170 times.
+
+[22:09:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dyrroth_321 fell from a high place
+[22:09:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:09:55] [Server thread/DEBUG] [FML]: The world 7c148b91 (world) may have leaked: seen 175 times.
+
+[22:09:55] [Server thread/DEBUG] [FML]: The world 401209b5 (world) may have leaked: seen 175 times.
+
+[22:09:55] [Server thread/DEBUG] [FML]: The world 3056484d (world) may have leaked: seen 175 times.
+
+[22:10:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
