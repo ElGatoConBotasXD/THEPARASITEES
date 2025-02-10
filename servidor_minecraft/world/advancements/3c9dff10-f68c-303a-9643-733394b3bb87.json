@@ -1582,6 +1582,12 @@
     },
     "done": true
   },
+  "nocubessrparmory:advpestilentpart": {
+    "criteria": {
+      "advpestilentpart": "2025-02-10 00:59:35 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/ruby": {
     "criteria": {
       "has_the_recipe": "2025-02-09 21:42:33 +0000"
