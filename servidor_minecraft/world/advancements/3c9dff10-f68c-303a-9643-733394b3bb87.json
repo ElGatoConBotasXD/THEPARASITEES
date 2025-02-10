@@ -3871,6 +3871,12 @@
     },
     "done": true
   },
+  "nocubessrpnests:advbreakegg": {
+    "criteria": {
+      "advbreakegg": "2025-02-10 01:29:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_the_recipe": "2025-02-09 21:42:33 +0000"

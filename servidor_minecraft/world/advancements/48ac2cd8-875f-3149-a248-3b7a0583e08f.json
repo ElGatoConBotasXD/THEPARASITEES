@@ -1639,6 +1639,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "beaches": "2025-02-10 01:26:36 +0000",
+      "jungle_edge": "2025-02-10 01:28:06 +0000",
+      "ocean": "2025-02-10 01:26:39 +0000",
       "river": "2025-02-09 21:41:23 +0000"
     },
     "done": false
@@ -3816,6 +3819,12 @@
   "biomesoplenty:recipes/buildingblocks/sacred_oak_stairs": {
     "criteria": {
       "has_the_recipe": "2025-02-09 21:41:16 +0000"
+    },
+    "done": true
+  },
+  "nocubessrpnests:advbreakegg": {
+    "criteria": {
+      "advbreakegg": "2025-02-10 01:29:58 +0000"
     },
     "done": true
   },
