@@ -853,3 +853,5 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [23:46:46] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
 [23:46:46] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Dyrroth_321[/127.120.178.104:42461] logged in with entity id 4688881 at (205.767008315331, 72.3439591747211, 244.55409481976213)
 [23:46:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dyrroth_321 joined the game
+[23:55:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Christian190670 has made the advancement [A Seedy Place]
+[23:57:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Christian190670 has made the advancement [The Parrots and the Bats]
