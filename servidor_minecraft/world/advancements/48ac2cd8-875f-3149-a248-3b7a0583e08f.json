@@ -3459,6 +3459,12 @@
     },
     "done": true
   },
+  "nocubessrparmory:advtwisteddagger": {
+    "criteria": {
+      "advtwisteddagger": "2025-02-10 01:12:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_the_recipe": "2025-02-09 21:41:16 +0000"
