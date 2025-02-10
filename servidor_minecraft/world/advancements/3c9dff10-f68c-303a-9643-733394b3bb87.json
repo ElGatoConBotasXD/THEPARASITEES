@@ -3898,6 +3898,12 @@
     },
     "done": true
   },
+  "nocubessrparmory:advrupterbomb": {
+    "criteria": {
+      "advrupterbomb": "2025-02-10 00:04:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick": {
     "criteria": {
       "has_the_recipe": "2025-02-09 21:42:33 +0000"
