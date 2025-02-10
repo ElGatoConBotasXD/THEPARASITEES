@@ -1850,6 +1850,12 @@
     },
     "done": true
   },
+  "nocubessrpnests:adventeringthehive": {
+    "criteria": {
+      "adventeringthehive": "2025-02-10 01:31:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_the_recipe": "2025-02-09 21:42:33 +0000"

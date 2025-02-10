@@ -1441,3 +1441,22 @@
 [01:31:21] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
 [01:31:21] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Christian190670[/127.55.197.52:54953] logged in with entity id 8199090 at (357.3028213114975, 69.0, 233.7325804579798)
 [01:31:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Christian190670 joined the game
+[01:31:37] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:
+[01:31:56] [Server thread/WARN] [FML]: Quark loaded a new chunk [-3, 42] in dimension 0 (overworld) while populating chunk [-3, 41], causing cascading worldgen lag.
+[01:31:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:37:22] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Dyrroth_321 was kicked for floating too long!
+[01:37:22] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Dyrroth_321 lost connection: Flying is not enabled on this server
+[01:37:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dyrroth_321 left the game
+[01:37:56] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Christian190670 lost connection: Disconnected
+[01:37:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Christian190670 left the game
+[01:38:59] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Pinguinnocios12 lost connection: Disconnected
+[01:38:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Pinguinnocios12 left the game
+[01:39:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[01:39:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[01:39:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[01:39:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[01:39:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[01:39:53] [Server thread/INFO] [FML]: Unloading dimension 0
+[01:39:53] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[01:39:53] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[01:39:53] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
